@@ -1,6 +1,6 @@
 # 💻 My Journey Learning and Setting Up C++ on Windows 11 (CSC226)
 
-This README explains how I, **Gaji Yaqub Ayomikun**, set up my C++ development environment on Windows 11 and wrote my personal and group assignments for CSC226. I explain the steps I followed, the challenges I faced, and how I overcame them.
+This README explains how I, **Gaji Yaqub Ayomikun and group members**, set up C++ development environment on Windows 11 and wrote the personal and group assignments for CSC226. I explain the steps I followed, the challenges we faced, and how we overcame them.
 
 ---
 
