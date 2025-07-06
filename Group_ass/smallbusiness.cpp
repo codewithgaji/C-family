@@ -77,41 +77,21 @@ int main() {
             case 1: {
                 lasuicecream.getData(lasuicecream, 1);  // Get P, R, T for SI calculation
                 small_business result = calculate_simple_interest(lasuicecream, lasuicecream, lasuicecream);
-                /* if you wish this data to calculate other values you can 
-                small_business result = calculate_interest_rate(lasuicecream, lasuicecream, lasuicecream);
-                small_business result = calculate_principal(lasuicecream, lasuicecream, lasuicecream);
-                small_business result = calculate_time(lasuicecream, lasuicecream, lasuicecream);
-                */ 
                 break;
             }
             case 2: {
                 lasuicecream.getData(lasuicecream, 2);  // Get SI, T, R for Principal calculation
                 small_business result = calculate_principal(lasuicecream, lasuicecream, lasuicecream);
-                /* if you wish this data to calculate other values you can 
-                small_business result = calculate_interest_rate(lasuicecream, lasuicecream, lasuicecream);
-                small_business result = calculate_simple_interest(lasuicecream, lasuicecream, lasuicecream);
-                small_business result = calculate_time(lasuicecream, lasuicecream, lasuicecream);
-                */ 
                 break;
             }
             case 3: {
                 lasuicecream.getData(lasuicecream, 3);  // Get SI, T, P for Rate calculation
                 small_business result = calculate_interest_rate(lasuicecream, lasuicecream, lasuicecream);
-                /* if you wish this data to calculate other values you can 
-                small_business result = calculate_principal(lasuicecream, lasuicecream, lasuicecream);
-                small_business result = calculate_simple_interest(lasuicecream, lasuicecream, lasuicecream);
-                small_business result = calculate_time(lasuicecream, lasuicecream, lasuicecream);
-                */ 
                 break;
             }
             case 4: {
                 lasuicecream.getData(lasuicecream, 4);  // Get SI, R, P for Time calculation
                 small_business result = calculate_time(lasuicecream, lasuicecream, lasuicecream);
-                /* if you wish this data to calculate other values you can 
-                small_business result = calculate_principal(lasuicecream, lasuicecream, lasuicecream);
-                small_business result = calculate_simple_interest(lasuicecream, lasuicecream, lasuicecream);
-                 small_business result = calculate_interest_rate(lasuicecream, lasuicecream, lasuicecream);
-                */ 
                 break;
             }
             case 5:
